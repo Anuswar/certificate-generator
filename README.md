@@ -1,4 +1,4 @@
-![Certificates Preview](https://raw.githubusercontent.com/Anuswar/certificate-generator/main/preview.jpg)
+![Certificates Preview](https://raw.githubusercontent.com/Anuswar/certificate-generator/main/preview.png)
 
 # Certificate Generator 🏆
 
